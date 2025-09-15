@@ -7,7 +7,7 @@ resource "aws_instance" "dev" {
     instance_type = "t2.micro"
     subnet_id = "subnet-09f113a76bbdf6b91"
     tags = {
-      Name = "devloper12"
+      Name = "devlope"
     }
     
 }
